@@ -1,89 +1,9 @@
-{
-    "status": "success",
-    "data": [
-      {
-        "_id": "5de4f1f85e137d000c874b25",
-        "name": "Champion",
-        "type": "trailer",
-        "youtubeURL": "https://www.youtube.com/watch?v=Qaz6VUZT2C0",
-        "isLive": false,
-        "graph": {
-          "views": [
-            {
-              "count": 38102,
-              "at": "2019-12-02T11:14:00.104Z"
-            },
-            {
-              "count": 46379,
-              "at": "2019-12-02T12:15:00.131Z"
-            },
-            {
-              "count": 53456,
-              "at": "2019-12-02T13:16:00.106Z"
-            },
-            {
-              "count": 60020,
-              "at": "2019-12-02T14:17:00.111Z"
-            },
-            {
-              "count": 67912,
-              "at": "2019-12-02T16:14:00.118Z"
-            },
-            {
-              "count": 71601,
-              "at": "2019-12-02T17:15:00.121Z"
-            },
-            {
-              "count": 77534,
-              "at": "2019-12-02T18:16:00.133Z"
-            },
-            {
-              "count": 82895,
-              "at": "2019-12-02T19:17:00.126Z"
-            },
-            {
-              "count": 91826,
-              "at": "2019-12-02T21:14:00.118Z"
-            },
-            {
-              "count": 93833,
-              "at": "2019-12-02T22:15:00.220Z"
-            },
-            {
-              "count": 94771,
-              "at": "2019-12-02T23:16:00.131Z"
-            },
-            {
-              "count": 95649,
-              "at": "2019-12-03T00:17:00.137Z"
-            },
-            {
-              "count": 96896,
-              "at": "2019-12-03T02:14:00.121Z"
-            },
-            {
-              "count": 98850,
-              "at": "2019-12-03T03:15:00.145Z"
-            },
-            {
-              "count": 102464,
-              "at": "2019-12-03T04:16:00.148Z"
-            },
-            {
-              "count": 184998,
-              "at": "2019-12-04T05:14:00.120Z"
-            },
-            {
-              "count": 243552,
-              "at": "2019-12-05T05:15:00.134Z"
-            },
-            {
-              "count": 294774,
-              "at": "2019-12-06T05:16:00.129Z"
-            }
-          ]
-        }
-      }
-    ],
-    "message": "Events with videos fetched successfully"
-  }
+[{
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.olacabs.customer",
+      "sha256_cert_fingerprints":
+      ["09:06:77:4A:AF:A0:D1:FB:FB:13:15:37:46:06:8F:C9:EE:D7:B8:00:4D:E7:DA:54:78:4D:35:DC:F6:7C:19:BB"]
+    }
+  }]
