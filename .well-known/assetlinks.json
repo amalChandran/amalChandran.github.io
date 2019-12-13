@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.olacabs.customer.dev",
+    "sha256_cert_fingerprints":
+    ["8C:89:3F:7B:92:E4:D7:91:33:C8:21:C0:7F:C7:65:D2:C4:B0:02:4C:E1:0E:94:C1:CA:55:5C:4B:82:0C:2C:ED"]
+  }
+}]
